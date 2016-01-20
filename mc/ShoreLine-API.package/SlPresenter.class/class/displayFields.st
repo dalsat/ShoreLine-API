@@ -1,0 +1,4 @@
+accessing
+displayFields
+
+	^ self subclassResponsibility 

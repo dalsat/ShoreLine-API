@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-API-Adapters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SlEntityAdapter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

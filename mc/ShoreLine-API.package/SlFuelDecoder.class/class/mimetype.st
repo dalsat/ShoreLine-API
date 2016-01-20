@@ -1,0 +1,4 @@
+testing
+mimetype
+
+	^ ZnMimeType applicationFuel

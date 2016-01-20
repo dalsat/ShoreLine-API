@@ -1,0 +1,1 @@
+A SlAbstractStore provides a base interface for database instances in ShoreLine.

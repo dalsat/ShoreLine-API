@@ -1,0 +1,4 @@
+accessing
+store
+
+	^ SlStackTraceStore uniqueInstance

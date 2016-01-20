@@ -1,0 +1,4 @@
+evaluating
+asMongoQuery
+
+	^ self asDictionary

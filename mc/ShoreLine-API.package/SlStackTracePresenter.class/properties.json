@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-API-Presenters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TommasoDalSasso 12/4/2015 13:42",
+	"instvars" : [
+		 ],
+	"name" : "SlStackTracePresenter",
+	"pools" : [
+		 ],
+	"super" : "SlPresenter",
+	"type" : "normal" }

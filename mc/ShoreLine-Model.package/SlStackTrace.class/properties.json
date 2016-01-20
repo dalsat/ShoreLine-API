@@ -1,0 +1,20 @@
+{
+	"category" : "ShoreLine-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TommasoDalSasso 6/5/2014 15:06",
+	"instvars" : [
+		"stacktrace",
+		"author",
+		"auto",
+		"date",
+		"dateCreated",
+		"version",
+		"ip" ],
+	"name" : "SlStackTrace",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

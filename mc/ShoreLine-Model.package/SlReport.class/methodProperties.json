@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"withMetadata:" : "AuthorName 6/2/2014 08:24",
+		"withPayload:" : "TommasoDalSasso 3/6/2014 10:16" },
+	"instance" : {
+		"asDictionary" : "TommasoDalSasso 4/7/2014 13:21",
+		"author" : "TommasoDalSasso 4/8/2014 10:45",
+		"author:" : "TommasoDalSasso 4/8/2014 10:45",
+		"beActive" : "TommasoDalSasso 3/31/2014 11:37",
+		"beClosed" : "TommasoDalSasso 3/31/2014 11:37",
+		"date" : "TommasoDalSasso 2/27/2014 00:53",
+		"date:" : "TommasoDalSasso 2/27/2014 00:53",
+		"description" : "TommasoDalSasso 6/3/2014 15:01",
+		"description:" : "TommasoDalSasso 6/3/2014 15:01",
+		"id" : "TommasoDalSasso 4/7/2014 15:54",
+		"index" : "TommasoDalSasso 4/3/2014 12:02",
+		"index:" : "TommasoDalSasso 4/3/2014 12:02",
+		"initialize" : "TommasoDalSasso 4/7/2014 12:09",
+		"isActive" : "TommasoDalSasso 3/31/2014 11:41",
+		"isClosed" : "TommasoDalSasso 3/31/2014 11:41",
+		"metadata" : "TommasoDalSasso 4/8/2014 10:42",
+		"payload" : "TommasoDalSasso 2/27/2014 01:02",
+		"payload:" : "TommasoDalSasso 2/27/2014 01:02",
+		"project" : "TommasoDalSasso 6/3/2014 15:01",
+		"project:" : "TommasoDalSasso 6/3/2014 15:01",
+		"status" : "TommasoDalSasso 3/25/2014 10:54",
+		"status:" : "TommasoDalSasso 3/25/2014 10:55" } }

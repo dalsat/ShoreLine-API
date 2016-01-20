@@ -1,0 +1,4 @@
+accessing
+allowedParameters
+
+	^ allowedParameters ifNil: #()

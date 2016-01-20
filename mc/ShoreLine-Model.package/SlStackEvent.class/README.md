@@ -1,0 +1,1 @@
+A SlStackEvent is en entry in a stacktrace.

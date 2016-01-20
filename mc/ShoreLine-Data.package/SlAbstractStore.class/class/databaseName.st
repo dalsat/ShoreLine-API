@@ -1,0 +1,4 @@
+accessing
+databaseName
+
+	^ self subclassResponsibility 

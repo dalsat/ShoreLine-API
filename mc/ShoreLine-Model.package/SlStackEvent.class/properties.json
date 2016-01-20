@@ -1,0 +1,16 @@
+{
+	"category" : "ShoreLine-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TommasoDalSasso 6/5/2014 15:06",
+	"instvars" : [
+		"rawContents",
+		"targetClass",
+		"targetMethod" ],
+	"name" : "SlStackEvent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

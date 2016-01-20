@@ -1,0 +1,4 @@
+accessing
+configurationFile
+
+	^ configFile asFileReference

@@ -1,0 +1,16 @@
+{
+	"category" : "ShoreLine-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"key",
+		"model",
+		"timestamp" ],
+	"name" : "SlCachedObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

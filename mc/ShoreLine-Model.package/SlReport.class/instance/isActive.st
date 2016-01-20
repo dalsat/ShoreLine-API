@@ -1,0 +1,4 @@
+actions
+isActive
+
+	^ status == #active

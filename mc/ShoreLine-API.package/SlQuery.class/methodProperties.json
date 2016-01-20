@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"authorQuery" : "TommasoDalSasso 12/19/2015 02:44",
+		"classQuery" : "TommasoDalSasso 12/19/2015 02:44",
+		"methodQuery" : "TommasoDalSasso 12/19/2015 02:44",
+		"topClassQuery" : "TommasoDalSasso 12/19/2015 02:44",
+		"topMethodQuery" : "TommasoDalSasso 12/19/2015 02:44",
+		"withRequest:" : "TommasoDalSasso 12/19/2015 02:41",
+		"withRequest:allowedParameters:" : "TommasoDalSasso 12/19/2015 02:50" },
+	"instance" : {
+		"allowedParameters" : "TommasoDalSasso 12/19/2015 02:42",
+		"allowedParameters:" : "TommasoDalSasso 12/19/2015 02:46",
+		"asDictionary" : "TommasoDalSasso 12/19/2015 03:00",
+		"asMongoQuery" : "TommasoDalSasso 12/19/2015 03:00",
+		"initialize" : "TommasoDalSasso 12/19/2015 02:40",
+		"request:" : "TommasoDalSasso 12/19/2015 02:47" } }

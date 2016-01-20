@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Data",
+	"classinstvars" : [
+		"Default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"store" ],
+	"name" : "SlCache",
+	"pools" : [
+		 ],
+	"super" : "AbstractCache",
+	"type" : "normal" }

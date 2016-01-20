@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TommasoDalSasso 10/12/2014 00:14",
+	"instvars" : [
+		 ],
+	"name" : "SlStackTraceStore",
+	"pools" : [
+		 ],
+	"super" : "SlAbstractStore",
+	"type" : "normal" }

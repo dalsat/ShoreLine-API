@@ -1,0 +1,4 @@
+configuration
+defaultDatabase
+
+	^ 'ShoreLine-StackTraces'

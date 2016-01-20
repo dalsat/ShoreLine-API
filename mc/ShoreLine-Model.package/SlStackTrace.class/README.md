@@ -1,0 +1,1 @@
+A SlStackTrace contains the events retrieved by the analysis of a stacktrace.

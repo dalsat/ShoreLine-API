@@ -1,0 +1,1 @@
+A SlData is a singleton to manage the database instance to access the database.

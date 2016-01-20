@@ -1,0 +1,15 @@
+{
+	"category" : "ShoreLine-Data",
+	"classinstvars" : [
+		"Current" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"settings",
+		"configFile" ],
+	"name" : "SlSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

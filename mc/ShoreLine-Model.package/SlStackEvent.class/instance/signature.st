@@ -1,0 +1,4 @@
+accessing
+signature
+
+	^ self printString

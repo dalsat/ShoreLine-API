@@ -1,0 +1,4 @@
+accessing
+size
+
+	^ stacktrace size

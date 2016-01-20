@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"databaseName" : "TommasoDalSasso 4/14/2015 10:56",
+		"default" : "TommasoDalSasso 4/14/2015 15:47" },
+	"instance" : {
+		"at:ifAbsentPut:" : "TommasoDalSasso 4/14/2015 15:55",
+		"initializeStore" : "TommasoDalSasso 4/14/2015 14:52",
+		"removeAll" : "TommasoDalSasso 4/14/2015 14:49",
+		"removeKey:" : "TommasoDalSasso 4/14/2015 16:05",
+		"removeKey:ifAbsent:" : "TommasoDalSasso 4/14/2015 16:03",
+		"save:as:" : "TommasoDalSasso 4/14/2015 15:58",
+		"size" : "TommasoDalSasso 4/14/2015 15:18",
+		"store" : "TommasoDalSasso 4/14/2015 15:26" } }

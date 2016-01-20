@@ -1,0 +1,1 @@
+I am an Exception that signals that the resource with the given ID was not found on the local store.

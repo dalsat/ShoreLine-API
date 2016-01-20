@@ -1,0 +1,17 @@
+{
+	"category" : "ShoreLine-Data",
+	"classinstvars" : [
+		"uniqueInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TommasoDalSasso 4/14/2015 23:36",
+	"instvars" : [
+		"store",
+		"host",
+		"username",
+		"password" ],
+	"name" : "SlAbstractStore",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

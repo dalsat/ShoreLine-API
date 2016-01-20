@@ -1,0 +1,20 @@
+{
+	"category" : "ShoreLine-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TommasoDalSasso 2/25/2014 23:50",
+	"instvars" : [
+		"payload",
+		"index",
+		"author",
+		"date",
+		"status",
+		"project",
+		"description" ],
+	"name" : "SlReport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

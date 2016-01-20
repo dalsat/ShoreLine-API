@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"fromString:" : "TommasoDalSasso 6/10/2014 17:05",
+		"lookupExpression" : "TommasoDalSasso 11/4/2014 16:56",
+		"neoJsonMapping:" : "TommasoDalSasso 8/17/2014 10:41" },
+	"instance" : {
+		"=" : "TommasoDalSasso 11/3/2014 11:44",
+		"dnuMessage" : "TommasoDalSasso 6/6/2015 18:20",
+		"hash" : "TommasoDalSasso 11/3/2014 11:44",
+		"isDnu" : "TommasoDalSasso 1/13/2015 15:29",
+		"lookupSignature" : "TommasoDalSasso 11/4/2014 14:18",
+		"printOn:" : "TommasoDalSasso 6/4/2014 14:46",
+		"rawContents" : "TommasoDalSasso 6/4/2014 13:51",
+		"rawContents:" : "TommasoDalSasso 6/4/2014 13:51",
+		"signature" : "TommasoDalSasso 11/3/2014 11:44",
+		"targetClass" : "TommasoDalSasso 11/4/2014 14:15",
+		"targetMethod" : "TommasoDalSasso 11/4/2014 14:15" } }

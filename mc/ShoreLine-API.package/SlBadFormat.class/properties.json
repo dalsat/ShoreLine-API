@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-API-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TommasoDalSasso 12/3/2015 13:25",
+	"instvars" : [
+		 ],
+	"name" : "SlBadFormat",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+configuration
+pagingLimit
+
+	^ 50

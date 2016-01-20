@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-API-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TommasoDalSasso 12/6/2015 00:45",
+	"instvars" : [
+		 ],
+	"name" : "SlData",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

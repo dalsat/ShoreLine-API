@@ -1,0 +1,1 @@
+I manage the queries to the data store.

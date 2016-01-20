@@ -1,0 +1,4 @@
+configuration
+defaultHost
+
+	^ 'https://localhost'

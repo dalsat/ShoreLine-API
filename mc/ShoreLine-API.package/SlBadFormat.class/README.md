@@ -1,0 +1,1 @@
+I am an Exception that signals that the service is not able to decode the received data.

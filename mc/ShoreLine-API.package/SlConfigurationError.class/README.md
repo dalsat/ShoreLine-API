@@ -1,0 +1,1 @@
+I am an Exception that signals an error while reading the settings.
