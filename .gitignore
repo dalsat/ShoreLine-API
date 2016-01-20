@@ -1,0 +1,7 @@
+.DS_Store
+*.changes
+*.image
+*.log
+*.pid
+package-cache/
+play-cache/

@@ -5,5 +5,5 @@ voyage: spec
 		spec
 			className: 'ConfigurationOfVoyageMongo';
 			repository: 'http://www.smalltalkhub.com/mc/estebanlm/Voyage/main';
-			loads: #(mongo);
+			loads: #(Mongo);
 			version: #stable ]
