@@ -6,6 +6,7 @@ baseline: spec
 		
 		"dependencies"
 		self neojson: spec.
+		self cocoon: spec.
 		self voyage: spec.
 		self teapot: spec.
 
