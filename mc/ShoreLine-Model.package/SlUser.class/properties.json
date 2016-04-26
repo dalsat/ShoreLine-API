@@ -1,0 +1,16 @@
+{
+	"category" : "ShoreLine-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"username",
+		"email" ],
+	"name" : "SlUser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "ShoreLine-Model-Shards",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TommasoDalSasso 3/8/2016 17:38",
+	"instvars" : [
+		"contents",
+		"description",
+		"changes" ],
+	"name" : "SlEvent",
+	"pools" : [
+		 ],
+	"super" : "SlShard",
+	"type" : "normal" }

@@ -5,3 +5,6 @@
 *.pid
 package-cache/
 play-cache/
+vm/
+github*
+image*

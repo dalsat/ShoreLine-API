@@ -1,9 +1,8 @@
 queries
 summaryFromRequest: aRequest
-	| date query |
+	| date |
 
 	date := aRequest at: #date ifAbsent: [ DateAndTime now ].	
-	"query := SlQueryParameters withRequest: aRequest allowedParameters: #(date)."
 
 	^ {
 		#count -> self store count.

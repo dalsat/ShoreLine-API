@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"objects" ],
+	"name" : "SlMemoryRepository",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

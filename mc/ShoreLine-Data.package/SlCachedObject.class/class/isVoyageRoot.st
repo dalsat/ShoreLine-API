@@ -1,4 +1,0 @@
-persistence
-isVoyageRoot
-
-	^ true

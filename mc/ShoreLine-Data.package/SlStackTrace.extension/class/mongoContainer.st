@@ -3,6 +3,6 @@ mongoContainer
 	<mongoContainer>
 	
 	^ VOMongoContainer new
-		collectionName: 'SlStackTrace';
-		kind: SlStackTrace;
+		collectionName: 'StackTrace';
+		"kind: SlStackTrace;"
 		yourself

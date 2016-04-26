@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-FogBugz-Importer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SlReportImporter",
+	"pools" : [
+		 ],
+	"super" : "SlImporter",
+	"type" : "normal" }

@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"defaultLinkClass" : "TommasoDalSasso 4/5/2016 11:49",
+		"neoJsonMapping:" : "TommasoDalSasso 4/29/2016 16:04" },
+	"instance" : {
+		"author" : "TommasoDalSasso 3/8/2016 15:59",
+		"author:" : "TommasoDalSasso 3/8/2016 15:59",
+		"basicLink:as:" : "TommasoDalSasso 6/11/2016 03:04",
+		"basicUnlink:" : "TommasoDalSasso 6/11/2016 03:07",
+		"date" : "TommasoDalSasso 3/8/2016 17:36",
+		"date:" : "TommasoDalSasso 3/8/2016 17:36",
+		"link:" : "TommasoDalSasso 4/5/2016 11:37",
+		"link:as:" : "TommasoDalSasso 5/3/2016 17:10",
+		"linkAll:" : "TommasoDalSasso 3/9/2016 01:58",
+		"linkAll:as:" : "TommasoDalSasso 4/5/2016 11:42",
+		"links" : "TommasoDalSasso 3/8/2016 19:10",
+		"numberOfLinks" : "TommasoDalSasso 4/21/2016 14:05",
+		"printOn:" : "TommasoDalSasso 4/21/2016 14:06",
+		"symmetricLink:" : "TommasoDalSasso 5/4/2016 15:10",
+		"symmetricLink:as:" : "TommasoDalSasso 5/4/2016 15:10",
+		"unlink:" : "TommasoDalSasso 3/8/2016 19:06" } }

@@ -1,6 +1,4 @@
 actions
-write: aRequest
+write: anObject
 	
-	self store save: (self class
-		reifyFrom: (self class decode: aRequest)
-		andRequest: aRequest)
+	self store save: anObject

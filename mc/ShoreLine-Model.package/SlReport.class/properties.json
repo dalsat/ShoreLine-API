@@ -1,20 +1,16 @@
 {
-	"category" : "ShoreLine-Model",
+	"category" : "ShoreLine-Model-Shards",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "TommasoDalSasso 2/25/2014 23:50",
+	"commentStamp" : "",
 	"instvars" : [
-		"payload",
-		"index",
-		"author",
-		"date",
+		"summary",
 		"status",
-		"project",
-		"description" ],
+		"dateClosed" ],
 	"name" : "SlReport",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SlShard",
 	"type" : "normal" }

@@ -1,11 +1,7 @@
 {
 	"class" : {
 		"databaseName" : "TommasoDalSasso 12/7/2015 16:27",
-		"generateIndexes" : "TommasoDalSasso 12/6/2015 01:37",
+		"generateIndexes" : "TommasoDalSasso 6/7/2016 11:14",
 		"targetClass" : "TommasoDalSasso 12/15/2014 18:48" },
 	"instance" : {
-		"countInDate:" : "TommasoDalSasso 12/28/2015 19:13",
-		"countInLast:" : "TommasoDalSasso 4/14/2015 11:12",
-		"selectFrom:to:" : "TommasoDalSasso 12/15/2014 18:52",
-		"selectInDate:" : "TommasoDalSasso 12/15/2014 18:51",
-		"selectInLast:" : "TommasoDalSasso 4/14/2015 11:11" } }
+		 } }

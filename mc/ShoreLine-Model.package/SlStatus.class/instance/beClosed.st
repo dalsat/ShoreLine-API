@@ -1,0 +1,4 @@
+actions
+beClosed
+
+	open := false

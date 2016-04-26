@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"reifyFrom:andRequest:" : "TommasoDalSasso 4/22/2016 11:47" },
+	"instance" : {
+		"fromRequest:" : "TommasoDalSasso 4/22/2016 16:06",
+		"metadataWithID:" : "TommasoDalSasso 4/29/2016 11:59",
+		"store" : "TommasoDalSasso 4/22/2016 11:19",
+		"summaryFromRequest:" : "TommasoDalSasso 5/4/2016 13:45",
+		"where:from:limit:" : "TommasoDalSasso 4/22/2016 16:06",
+		"where:fromRequest:" : "TommasoDalSasso 5/4/2016 14:43",
+		"withID:" : "TommasoDalSasso 5/4/2016 18:06" } }

@@ -1,4 +1,4 @@
 accessing
 store
 
-	^ store ifNil: [ store := self initializeStore ]
+	^ store ifNil: [ store := self newStore ]

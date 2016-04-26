@@ -1,4 +1,0 @@
-actions
-isActive
-
-	^ status == #active

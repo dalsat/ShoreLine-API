@@ -1,9 +1,9 @@
 dependencies
 voyage: spec
 
-	spec project: 'Voyage' with: [
-		spec
-			className: 'ConfigurationOfVoyageMongo';
-			repository: 'http://www.smalltalkhub.com/mc/estebanlm/Voyage/main';
-			loads: #(Mongo);
-			version: #stable ]
+	spec
+		baseline: 'Voyage' with: [
+			spec
+				className: 'BaselineOfVoyageMongo';
+				repository: 'github://estebanlm/voyage/mc' ];
+		import: 'Voyage'

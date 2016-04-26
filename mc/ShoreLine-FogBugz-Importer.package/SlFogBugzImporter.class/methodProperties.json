@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"defaultNumberOfReports" : "TommasoDalSasso 3/21/2016 14:16" },
+	"instance" : {
+		"get:" : "TommasoDalSasso 3/21/2016 14:26",
+		"getWithID:" : "TommasoDalSasso 5/2/2016 12:01",
+		"initialize" : "TommasoDalSasso 3/8/2016 17:22",
+		"newTracker" : "TommasoDalSasso 3/21/2016 14:45",
+		"tracker" : "TommasoDalSasso 5/2/2016 13:34" } }

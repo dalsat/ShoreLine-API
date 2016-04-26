@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"blockQueryForClass:from:" : "TommasoDalSasso 4/29/2016 11:31",
+		"blockQueryFrom:" : "TommasoDalSasso 4/29/2016 11:27" },
+	"instance" : {
+		"count:" : "TommasoDalSasso 4/29/2016 16:29",
+		"count:where:" : "TommasoDalSasso 4/29/2016 16:31",
+		"idOf:" : "TommasoDalSasso 4/29/2016 11:21",
+		"initialize" : "TommasoDalSasso 4/29/2016 11:01",
+		"printOn:" : "TommasoDalSasso 4/29/2016 11:10",
+		"save:" : "TommasoDalSasso 4/29/2016 11:22",
+		"selectAll:" : "TommasoDalSasso 4/29/2016 11:22",
+		"selectMany:where:" : "TommasoDalSasso 4/29/2016 11:16",
+		"selectMany:where:order:limit:offset:" : "TommasoDalSasso 4/29/2016 11:19",
+		"selectOne:where:" : "TommasoDalSasso 4/29/2016 11:30",
+		"selectWithID:" : "TommasoDalSasso 5/4/2016 17:56" } }

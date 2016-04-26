@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Model-Shards",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TommasoDalSasso 3/8/2016 17:37",
+	"instvars" : [
+		 ],
+	"name" : "SlComment",
+	"pools" : [
+		 ],
+	"super" : "SlEvent",
+	"type" : "normal" }

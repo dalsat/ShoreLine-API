@@ -1,4 +1,0 @@
-storing
-isVoyageRoot
-
-	^ true

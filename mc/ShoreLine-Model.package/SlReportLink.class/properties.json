@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Model-Links",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SlReportLink",
+	"pools" : [
+		 ],
+	"super" : "SlLink",
+	"type" : "normal" }

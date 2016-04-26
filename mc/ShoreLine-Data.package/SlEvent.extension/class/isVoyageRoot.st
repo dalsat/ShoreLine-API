@@ -1,0 +1,4 @@
+*ShoreLine-Data
+isVoyageRoot
+
+	^ true

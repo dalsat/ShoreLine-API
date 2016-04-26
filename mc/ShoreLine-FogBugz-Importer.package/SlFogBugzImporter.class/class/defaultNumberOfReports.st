@@ -1,0 +1,4 @@
+default
+defaultNumberOfReports
+
+	^ 500

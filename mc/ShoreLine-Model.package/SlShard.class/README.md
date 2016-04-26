@@ -1,0 +1,1 @@
+A Shard is a piece of collected information that describes the system

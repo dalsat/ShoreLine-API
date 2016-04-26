@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"buildFrom:" : "TommasoDalSasso 4/21/2016 13:40",
+		"concreteClass" : "TommasoDalSasso 4/21/2016 13:24",
+		"new" : "TommasoDalSasso 4/21/2016 13:36",
+		"uniqueInstance" : "TommasoDalSasso 4/21/2016 13:36" },
+	"instance" : {
+		"build" : "TommasoDalSasso 4/21/2016 13:39",
+		"buildFrom:" : "TommasoDalSasso 4/21/2016 13:40",
+		"initializeWith:" : "TommasoDalSasso 4/21/2016 13:40",
+		"newInstance" : "TommasoDalSasso 4/21/2016 13:38" } }

@@ -1,0 +1,4 @@
+api
+import: aString
+	
+	^ aString

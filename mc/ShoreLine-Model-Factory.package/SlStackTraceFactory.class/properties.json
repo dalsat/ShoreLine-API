@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Model-Factory",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SlStackTraceFactory",
+	"pools" : [
+		 ],
+	"super" : "SlPayloadFactory",
+	"type" : "normal" }

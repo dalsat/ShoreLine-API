@@ -1,0 +1,4 @@
+accessing
+store
+
+	^ SlReportStore uniqueInstance

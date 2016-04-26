@@ -1,5 +1,5 @@
 actions
 save: aRequest
 
-	data write: aRequest.
+	self stacktraces write: aRequest.
 	^ TeaResponse created

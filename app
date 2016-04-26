@@ -14,6 +14,7 @@ Usage: $0 <command>
 
 Commands:
     get      download the stable pharo image.
+    get-vm   download the stable pharo vm.
     install  run install.sh on the image and then quit.
     clean    delete the Pharo image and the related files
     start    run the image with start.st in background.
@@ -25,7 +26,8 @@ END
 }
 
 # Setup vars
-VERSION=${VERSION:-stable}
+VERSION=${VERSION:-50}
+VM_PATH=${VM_PATH:-vm}
 
 script_home=$(dirname $0)
 script_home=$(cd $script_home && pwd)
@@ -36,7 +38,9 @@ pid_file=${2:-"$script_home/pharo.pid"}
 
 # echo $pid_file
 
-if [[ "$OSTYPE" == "linux-gnu" ]]; then
+if [ -d $VM_PATH ]; then
+    vm=${script_home}/$VM_PATH/pharo-ui
+elif [[ "$OSTYPE" == "linux-gnu" ]]; then
     vm=pharo-vm-nox
 elif [[ "$OSTYPE" == "darwin"* ]]; then
     vm=/Applications/Pharo.app/Contents/MacOS/Pharo
@@ -46,6 +50,13 @@ fi
 
 function get() {
     curl get.pharo.org/${VERSION} | bash
+}
+
+function get-vm() {
+    rm -rf vm
+    mkdir vm
+    cd vm
+    curl get.pharo.org/vm${VERSION} | bash
 }
 
 function deploy() {
@@ -119,6 +130,9 @@ function printpid() {
 case $command in
     get)
         get
+        ;;
+    get-vm)
+        get-vm
         ;;
     install)
         install

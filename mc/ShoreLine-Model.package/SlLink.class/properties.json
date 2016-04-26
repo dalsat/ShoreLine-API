@@ -1,0 +1,15 @@
+{
+	"category" : "ShoreLine-Model-Links",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"target",
+		"description" ],
+	"name" : "SlLink",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

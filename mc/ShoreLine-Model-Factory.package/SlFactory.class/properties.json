@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Model-Factory",
+	"classinstvars" : [
+		"Instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"newInstance" ],
+	"name" : "SlFactory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

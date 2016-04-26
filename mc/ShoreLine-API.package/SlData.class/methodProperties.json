@@ -1,14 +1,19 @@
 {
 	"class" : {
+		"current" : "TommasoDalSasso 4/21/2016 16:02",
 		"decode:" : "TommasoDalSasso 12/4/2015 11:22",
 		"pagingLimit" : "TommasoDalSasso 12/8/2015 20:29",
-		"reifyFrom:andRequest:" : "TommasoDalSasso 12/4/2015 12:13" },
+		"reifyFrom:andRequest:" : "TommasoDalSasso 6/7/2016 10:37",
+		"reports" : "TommasoDalSasso 4/21/2016 16:00",
+		"reset" : "TommasoDalSasso 4/22/2016 10:37",
+		"stacktraces" : "TommasoDalSasso 4/21/2016 16:00" },
 	"instance" : {
-		"stackTraceMetadataWithID:" : "TommasoDalSasso 12/5/2015 23:18",
-		"stackTraceWithID:" : "TommasoDalSasso 12/5/2015 23:26",
-		"stackTracesFromRequest:" : "TommasoDalSasso 12/19/2015 03:06",
-		"stackTracesWhere:from:limit:" : "TommasoDalSasso 12/6/2015 18:12",
-		"store" : "TommasoDalSasso 12/4/2015 02:01",
-		"summaryFromRequest:" : "TommasoDalSasso 12/19/2015 03:06",
-		"tracesWhere:fromRequest:" : "TommasoDalSasso 1/17/2016 02:14",
-		"write:" : "TommasoDalSasso 12/4/2015 02:05" } }
+		"fromRequest:" : "TommasoDalSasso 4/21/2016 16:04",
+		"metadataWithID:" : "TommasoDalSasso 4/28/2016 17:25",
+		"save:" : "TommasoDalSasso 5/3/2016 17:19",
+		"store" : "TommasoDalSasso 4/21/2016 16:09",
+		"summaryFromRequest:" : "TommasoDalSasso 4/22/2016 11:55",
+		"where:from:limit:" : "TommasoDalSasso 4/21/2016 16:07",
+		"where:fromRequest:" : "TommasoDalSasso 4/21/2016 16:06",
+		"withID:" : "TommasoDalSasso 4/21/2016 16:08",
+		"write:" : "TommasoDalSasso 4/22/2016 09:55" } }

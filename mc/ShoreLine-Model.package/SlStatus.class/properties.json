@@ -1,0 +1,15 @@
+{
+	"category" : "ShoreLine-Model-Status",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"open",
+		"substatus" ],
+	"name" : "SlStatus",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Model-Factory",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SlEventFactory",
+	"pools" : [
+		 ],
+	"super" : "SlFactory",
+	"type" : "normal" }

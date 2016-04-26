@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SlReportStore",
+	"pools" : [
+		 ],
+	"super" : "SlAbstractStore",
+	"type" : "normal" }
