@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-API-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TommasoDalSasso 6/29/2016 01:35",
+	"instvars" : [
+		 ],
+	"name" : "SlAuthenticateException",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

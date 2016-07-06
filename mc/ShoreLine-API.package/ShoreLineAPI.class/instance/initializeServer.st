@@ -5,7 +5,8 @@ initializeServer
 		#defaultOutput -> #json.
 		#port -> self settings port.
 		#debugMode -> self settings debug.
-		#serverUrl -> self settings host asUrl
+		#serverUrl -> self settings host asUrl.
+		#authenticator -> self newAuthenticator
 	}.
 	
 	teapot server logLevel: self settings logLevel.

@@ -1,0 +1,4 @@
+authentication
+beAuthenticated
+
+	^ SlAuthenticateException signal

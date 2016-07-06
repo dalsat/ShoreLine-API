@@ -5,5 +5,5 @@ voyage: spec
 		baseline: 'Voyage' with: [
 			spec
 				className: 'BaselineOfVoyageMongo';
-				repository: 'github://estebanlm/voyage/mc' ];
+				repository: 'github://pharo-nosql/voyage/mc' ];
 		import: 'Voyage'

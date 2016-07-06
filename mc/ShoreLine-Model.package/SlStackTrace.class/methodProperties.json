@@ -1,9 +1,9 @@
 {
 	"class" : {
+		"AAAneoJsonMapping:" : "TommasoDalSasso 6/12/2016 00:28",
 		"fromCollection:" : "TommasoDalSasso 6/10/2014 17:05",
 		"fromJson:" : "TommasoDalSasso 1/20/2016 11:46",
 		"materializeFromFileNamed:" : "TommasoDalSasso 6/4/2014 14:26",
-		"neoJsonMapping:" : "TommasoDalSasso 10/14/2014 18:39",
 		"withStackTrace:" : "TommasoDalSasso 6/10/2014 16:54" },
 	"instance" : {
 		"addEvent:" : "TommasoDalSasso 6/10/2014 10:50",

@@ -12,5 +12,5 @@
 	"name" : "SlShard",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SlEntity",
 	"type" : "normal" }

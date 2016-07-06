@@ -1,0 +1,4 @@
+actions
+close
+
+	closed := true

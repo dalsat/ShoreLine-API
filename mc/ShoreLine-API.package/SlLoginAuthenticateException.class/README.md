@@ -1,0 +1,1 @@
+I trigger the authentication process during a request, asking for an explicit login (non token).

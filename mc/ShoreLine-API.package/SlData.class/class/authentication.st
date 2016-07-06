@@ -1,0 +1,4 @@
+accessing
+authentication
+
+	^ SlAuthenticationData current

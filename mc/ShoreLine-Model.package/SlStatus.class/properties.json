@@ -11,5 +11,5 @@
 	"name" : "SlStatus",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SlEntity",
 	"type" : "normal" }

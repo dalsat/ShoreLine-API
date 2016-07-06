@@ -2,10 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
+		"close" : "TommasoDalSasso 6/12/2016 00:31",
 		"dateClosed" : "TommasoDalSasso 3/8/2016 19:19",
 		"dateClosed:" : "TommasoDalSasso 3/8/2016 19:19",
 		"events" : "TommasoDalSasso 5/4/2016 18:24",
+		"isClosed" : "TommasoDalSasso 6/12/2016 00:30",
 		"newEvent:" : "TommasoDalSasso 4/21/2016 15:14",
+		"reopen" : "TommasoDalSasso 6/12/2016 00:31",
 		"stacktraces" : "TommasoDalSasso 5/4/2016 18:24",
 		"status" : "TommasoDalSasso 3/8/2016 19:19",
 		"status:" : "TommasoDalSasso 3/8/2016 19:19",

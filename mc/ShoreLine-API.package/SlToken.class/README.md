@@ -1,0 +1,1 @@
+I register the pairing between a user and its authentication method, storing the token returned by the authentication domain (github).

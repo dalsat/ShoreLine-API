@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"authentication" : "TommasoDalSasso 6/29/2016 01:38",
 		"current" : "TommasoDalSasso 4/21/2016 16:02",
 		"decode:" : "TommasoDalSasso 12/4/2015 11:22",
 		"pagingLimit" : "TommasoDalSasso 12/8/2015 20:29",
@@ -8,6 +9,8 @@
 		"reset" : "TommasoDalSasso 4/22/2016 10:37",
 		"stacktraces" : "TommasoDalSasso 4/21/2016 16:00" },
 	"instance" : {
+		"beAuthenticated" : "TommasoDalSasso 6/29/2016 01:40",
+		"beLoginAuthenticated" : "TommasoDalSasso 6/29/2016 03:37",
 		"fromRequest:" : "TommasoDalSasso 4/21/2016 16:04",
 		"metadataWithID:" : "TommasoDalSasso 4/28/2016 17:25",
 		"save:" : "TommasoDalSasso 5/3/2016 17:19",

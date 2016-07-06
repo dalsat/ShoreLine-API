@@ -1,4 +1,4 @@
 accessing
 displayFields
 
-	^ #(author date dateClosed summary status events stacktraces)
+	^ #(author date dateClosed summary status events "stacktraces")

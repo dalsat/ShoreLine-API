@@ -12,5 +12,5 @@
 	"name" : "SlUser",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SlEntity",
 	"type" : "normal" }

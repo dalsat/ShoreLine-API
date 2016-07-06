@@ -1,0 +1,1 @@
+I manage the authentication using GitHub credentials.

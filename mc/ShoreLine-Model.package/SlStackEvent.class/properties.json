@@ -12,5 +12,5 @@
 	"name" : "SlStackEvent",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SlEntity",
 	"type" : "normal" }

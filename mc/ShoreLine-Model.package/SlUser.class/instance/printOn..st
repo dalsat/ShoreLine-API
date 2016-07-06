@@ -2,4 +2,4 @@ printing
 printOn: aStream
 
 	username ifNotNil: [ aStream << self username ].
-	email ifNotNil: [ $( << Character space << self email << $) ]
+	email ifNotNil: [ aStream << $( << Character space << self email << $) ]

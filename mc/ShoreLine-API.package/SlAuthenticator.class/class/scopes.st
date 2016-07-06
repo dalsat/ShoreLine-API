@@ -1,0 +1,4 @@
+accessing
+scopes
+
+	^ 'user:email'

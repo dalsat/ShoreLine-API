@@ -3,6 +3,7 @@
 *.image
 *.log
 *.pid
+shoreline-api.conf
 package-cache/
 play-cache/
 vm/

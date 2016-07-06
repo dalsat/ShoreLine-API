@@ -11,5 +11,5 @@
 	"name" : "SlLink",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SlEntity",
 	"type" : "normal" }

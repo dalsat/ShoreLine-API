@@ -1,11 +1,11 @@
 mapping
-neoJsonMapping: mapper
+AAAneoJsonMapping: mapper
 
 	mapper for: self do: [ :mapping |
 		mapping mapAllInstVars.
 		(mapping mapInstVar: #stacktrace) valueSchema: #ArrayOfSlStackEvents.
 		(mapping mapInstVar: #date) valueSchema: DateAndTime.
-		(mapping mapInstVar: #dateCreated) valueSchema: DateAndTime ].
+		"(mapping mapInstVar: #dateCreated) valueSchema: DateAndTime" ].
 
 	mapper for: DateAndTime customDo: [ :mapping |
 		mapping

@@ -1,6 +1,7 @@
 initialization
 registerRoutes
 
+	self registerAuthenticationRoutes.
 	self registerStackTraceRoutes.
 	self registerReportRoutes.
 	
