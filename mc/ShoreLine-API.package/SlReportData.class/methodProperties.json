@@ -1,11 +1,15 @@
 {
 	"class" : {
+		"reifyCommentFrom:andRequest:" : "TommasoDalSasso 8/22/2016 00:24",
 		"reifyFrom:andRequest:" : "TommasoDalSasso 4/22/2016 11:47" },
 	"instance" : {
 		"fromRequest:" : "TommasoDalSasso 4/22/2016 16:06",
 		"metadataWithID:" : "TommasoDalSasso 4/29/2016 11:59",
+		"newComment:withReportID:" : "TommasoDalSasso 9/1/2016 10:10",
+		"newCommentFromRequest:" : "TommasoDalSasso 9/1/2016 01:13",
 		"store" : "TommasoDalSasso 4/22/2016 11:19",
 		"summaryFromRequest:" : "TommasoDalSasso 5/4/2016 13:45",
 		"where:from:limit:" : "TommasoDalSasso 4/22/2016 16:06",
 		"where:fromRequest:" : "TommasoDalSasso 5/4/2016 14:43",
-		"withID:" : "TommasoDalSasso 5/4/2016 18:06" } }
+		"withClass:" : "TommasoDalSasso 8/23/2016 00:51",
+		"withID:" : "TommasoDalSasso 8/22/2016 00:21" } }

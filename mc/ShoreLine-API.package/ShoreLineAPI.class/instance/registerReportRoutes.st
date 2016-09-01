@@ -8,7 +8,9 @@ registerReportRoutes
 		GET: '/api/reports/id/<id>/full' -> [ :req |
 			self reports withID: (req at: #id) ];
 		GET: '/api/reports/list' -> [ :req | self reports fromRequest: req ];
+		GET: '/api/reports/class/<class>' -> [ :req | self reports withClass: req ];
 
 		POST: '/api/reports' -> [ :req |
 			self reports save: req.
-			TeaResponse created ]
+			TeaResponse created ];
+		POST: '/api/reports/id/<id>/comments' -> [ :req | self reports newCommentFromRequest: req ]

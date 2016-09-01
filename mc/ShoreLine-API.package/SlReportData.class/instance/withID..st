@@ -2,5 +2,5 @@ queries
 withID: id
 
 	^ (self store selectWithID: id)
-		ifNotNil: [ :trace | SlReportPresenter withID: id andModel: trace ]
+		ifNotNil: [ :report | SlReportPresenter withID: id andModel: report ]
 		ifNil: [ SlInvalidID signalWithID: id ]
