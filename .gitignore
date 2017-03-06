@@ -2,6 +2,7 @@
 *.changes
 *.image
 *.log
+*.dmp
 *.pid
 shoreline-api.conf
 package-cache/

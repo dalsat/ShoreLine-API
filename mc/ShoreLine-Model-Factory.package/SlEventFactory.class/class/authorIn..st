@@ -1,4 +1,4 @@
 extraction
 authorIn: aDictionary
 
-	^ aDictionary at: #author
+	^ aDictionary at: #author ifAbsent: nil

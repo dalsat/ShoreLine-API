@@ -1,7 +1,7 @@
 {
 	"category" : "ShoreLine-FogBugz-Importer",
 	"classinstvars" : [
-		 ],
+		"Users" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",

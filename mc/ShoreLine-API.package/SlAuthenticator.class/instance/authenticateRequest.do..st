@@ -7,4 +7,4 @@ authenticateRequest: request do: block
 			ifTrue: [ self isRequestLoginAuthenticated: request ]
 			ifFalse: [ self isRequestAuthenticated: request ])
 		ifTrue: [ e resume ]
-		ifFalse: [ ^ ZnResponse unauthorized: self authHeader ] ]
+		ifFalse: [ ^ (ZnResponse unauthorized: self authHeader) ] ]

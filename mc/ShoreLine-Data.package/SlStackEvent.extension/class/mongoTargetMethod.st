@@ -2,7 +2,7 @@
 mongoTargetMethod
 	<mongoDescription>
 	
-	^ VOMongoToOneDescription new
+	^ VOToOneDescription new
 		attributeName: #targetMethod;
 		accessor: (MAPluggableAccessor
 			read: [ :model | model targetMethod ]

@@ -1,4 +1,4 @@
-as yet unclassified
+*ShoreLine-Data
 isVoyageRoot
 
 	^ true

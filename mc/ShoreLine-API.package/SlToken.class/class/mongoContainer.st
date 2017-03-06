@@ -2,7 +2,7 @@ as yet unclassified
 mongoContainer
 	<mongoContainer>
 	
-	^ VOMongoContainer new
+	^ VOContainer new
 		collectionName: 'Token';
 		"kind: SlToken;"
 		yourself

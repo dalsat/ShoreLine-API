@@ -2,7 +2,7 @@
 mongoContainer
 	<mongoContainer>
 	
-	^ VOMongoContainer new
+	^ VOContainer new
 		collectionName: 'Report';
 		"kind: SlReport;"
 		yourself

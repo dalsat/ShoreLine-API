@@ -1,8 +1,6 @@
 api
 import: aUser
 
-	^ SlUser new
-		id: aUser id;
-		username: aUser username;
-		email: aUser mail;
-		yourself
+	^ self users
+		at: aUser username
+		ifAbsentPut: [ self newUserFrom: aUser ]

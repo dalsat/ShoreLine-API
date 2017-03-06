@@ -2,7 +2,7 @@
 mongoTargetClass
 	<mongoDescription>
 	
-	^ VOMongoToOneDescription new
+	^ VOToOneDescription new
 		attributeName: #targetClass;
 		accessor: (MAPluggableAccessor
 			read: [ :model | model targetClass ]

@@ -2,7 +2,7 @@
 mongoContainer
 	<mongoContainer>
 	
-	^ VOMongoContainer new
+	^ VOContainer new
 		collectionName: 'StackTrace';
 		"kind: SlStackTrace;"
 		yourself

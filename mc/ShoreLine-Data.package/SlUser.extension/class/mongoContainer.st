@@ -1,8 +1,8 @@
-as yet unclassified
+*ShoreLine-Data
 mongoContainer
 	<mongoContainer>
 	
-	^ VOMongoContainer new
+	^ VOContainer new
 		collectionName: 'User';
 		"kind: SlUser;"
 		yourself

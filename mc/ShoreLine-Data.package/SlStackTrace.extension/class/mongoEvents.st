@@ -2,7 +2,7 @@
 mongoEvents
 	<mongoDescription>
 	
-	^ VOMongoToManyDescription new
+	^ VOToManyDescription new
 		attributeName: 'stacktrace';
 		kind: SlStackEvent;
 		yourself

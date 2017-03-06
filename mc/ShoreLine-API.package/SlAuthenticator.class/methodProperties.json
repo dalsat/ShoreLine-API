@@ -5,7 +5,7 @@
 		"scopes" : "TommasoDalSasso 6/29/2016 00:44" },
 	"instance" : {
 		"authHeader" : "TommasoDalSasso 6/29/2016 01:42",
-		"authenticateRequest:do:" : "TommasoDalSasso 6/29/2016 15:20",
+		"authenticateRequest:do:" : "TommasoDalSasso 9/7/2016 17:04",
 		"checkLogin:withPassword:" : "TommasoDalSasso 7/4/2016 16:28",
 		"checkLoginFromRequest:" : "TommasoDalSasso 6/29/2016 02:43",
 		"checkToken:" : "TommasoDalSasso 6/29/2016 15:28",
