@@ -6,7 +6,8 @@
 		"Instance" ],
 	"commentStamp" : "TommasoDalSasso 12/8/2015 00:52",
 	"instvars" : [
-		"teapot" ],
+		"teapot",
+		"routes" ],
 	"name" : "ShoreLineAPI",
 	"pools" : [
 		 ],

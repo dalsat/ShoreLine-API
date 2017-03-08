@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-API-Routes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SlBlobRoute",
+	"pools" : [
+		 ],
+	"super" : "SlRootRoute",
+	"type" : "normal" }

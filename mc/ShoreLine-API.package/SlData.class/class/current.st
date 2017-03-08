@@ -1,5 +1,5 @@
 accessing
 current
 
-	self class = SlData ifTrue: [ 'please use one of my subclasses' ].
+	self class = SlData ifTrue: [ self error: 'Abstract class' ].
 	^ Current ifNil: [ Current := self basicNew initialize ]

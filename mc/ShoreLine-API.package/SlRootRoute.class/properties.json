@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-API-Routes",
+	"classinstvars" : [
+		"Instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SlRootRoute",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

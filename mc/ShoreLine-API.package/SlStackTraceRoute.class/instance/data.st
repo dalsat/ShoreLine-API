@@ -1,0 +1,4 @@
+accessing
+data
+
+	^ SlStackTraceData current

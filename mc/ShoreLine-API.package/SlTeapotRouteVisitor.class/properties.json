@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-API-Server",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"teapot" ],
+	"name" : "SlTeapotRouteVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

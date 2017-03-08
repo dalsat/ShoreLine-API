@@ -1,4 +1,4 @@
 accessing
 displayFields
 
-	^ #(author auto date dateCreated version stacktrace)
+	^ #(author auto date version stacktrace)

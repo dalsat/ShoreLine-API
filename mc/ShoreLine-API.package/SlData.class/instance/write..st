@@ -1,4 +1,4 @@
 actions
 write: anObject
 	
-	self store save: anObject
+	^ self store save: anObject

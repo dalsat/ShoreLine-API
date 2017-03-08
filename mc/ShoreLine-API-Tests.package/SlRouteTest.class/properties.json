@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-API-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"client" ],
+	"name" : "SlRouteTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
