@@ -1,6 +1,9 @@
-as yet unclassified
+registration
 registerRoutesOn: aRouteVisitor atPath: aString
-
-	aRouteVisitor registerAll: self routes.
-	self subclasses select: #isActive thenDo: [ :eachSubRoute |
-		eachSubRoute registerRoutesOn: aRouteVisitor atPath: aString, self path ]
+	| path |
+	
+	path := self pathWithPrefix: aString.
+	aRouteVisitor registerAll: (self routesWithPrefix: path).
+	self subclasses
+		select: #isActive
+		thenDo: [ :eachSubRoute | eachSubRoute registerRoutesOn: aRouteVisitor atPath: path ]

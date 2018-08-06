@@ -1,5 +1,5 @@
 routes
-testPost: aRequest
+rootPost: aRequest
 	<route: '/' method: #POST description: ''>
 	
 	^ TeaResponse created

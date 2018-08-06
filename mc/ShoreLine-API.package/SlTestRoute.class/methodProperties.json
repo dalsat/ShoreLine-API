@@ -2,7 +2,7 @@
 	"class" : {
 		"path" : "TommasoDalSasso 3/7/2017 13:53" },
 	"instance" : {
-		"testError:" : "TommasoDalSasso 3/8/2017 00:40",
-		"testGet:" : "TommasoDalSasso 3/8/2017 00:33",
-		"testMessage:" : "TommasoDalSasso 3/8/2017 00:33",
-		"testPost:" : "TommasoDalSasso 3/8/2017 00:33" } }
+		"errorGet:" : "TommasoDalSasso 3/8/2017 11:42",
+		"messageGet:" : "TommasoDalSasso 3/8/2017 11:42",
+		"rootGet:" : "TommasoDalSasso 3/8/2017 11:42",
+		"rootPost:" : "TommasoDalSasso 3/8/2017 11:42" } }

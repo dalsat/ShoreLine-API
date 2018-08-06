@@ -1,5 +1,5 @@
-routes
-testGet: aRequest
+as yet unclassified
+rootGet: aRequest
 	<route: '/' method: #GET description: ''>
 
 	^ { #message -> 'ok' } asDictionary

@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-API-Routes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SlSubTestRoute",
+	"pools" : [
+		 ],
+	"super" : "SlTestRoute",
+	"type" : "normal" }

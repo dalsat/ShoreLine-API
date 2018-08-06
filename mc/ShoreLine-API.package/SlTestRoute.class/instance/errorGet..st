@@ -1,5 +1,5 @@
 routes
-testError: aRequest
+errorGet: aRequest
 	<route: '/error' method: #GET description: ''>
 	
 	^ TeaResponse methodNotAllowed
