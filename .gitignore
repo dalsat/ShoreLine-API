@@ -6,7 +6,9 @@
 *.pid
 shoreline-api.conf
 package-cache/
+pharo-local/
 play-cache/
+tmp/
 vm/
-github*
+github-*
 image*

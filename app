@@ -15,7 +15,7 @@ Usage: $0 <command>
 Commands:
     get      download the stable pharo image.
     get-vm   download the stable pharo vm.
-    install  run install.sh on the image and then quit.
+    build    run install.sh on the image and then quit.
     clean    delete the Pharo image and the related files
     start    run the image with start.st in background.
     stop     stop the server.
@@ -26,8 +26,9 @@ END
 }
 
 # Setup vars
-VERSION=${VERSION:-50}
+VERSION=${VERSION:-61}
 VM_PATH=${VM_PATH:-vm}
+PHARO_URL=${PHARO_URL:-'https://get.pharo.org/64'}
 
 script_home=$(dirname $0)
 script_home=$(cd $script_home && pwd)
@@ -49,21 +50,21 @@ fi
 # echo Working directory $script_home
 
 function get() {
-    curl get.pharo.org/${VERSION} | bash
+    curl ${PHARO_URL}/${VERSION} | bash
 }
 
 function get-vm() {
     rm -rf vm
     mkdir vm
     cd vm
-    curl get.pharo.org/vm${VERSION} | bash
+    curl ${PHARO_URL}/vm${VERSION} | bash
 }
 
 function deploy() {
     ansible-playbook -i ansible/hosts.ini ansible/deploy.yml
 }
 
-function install() {
+function build() {
     echo $vm $image install.st
     $vm $image install.st
 }
@@ -134,8 +135,8 @@ case $command in
     get-vm)
         get-vm
         ;;
-    install)
-        install
+    build)
+        build
         ;;
     clean)
         clean
