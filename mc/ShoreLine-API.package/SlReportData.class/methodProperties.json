@@ -1,16 +1,19 @@
 {
+	"instance" : {
+		"store" : "TommasoDalSasso 4/22/2016 11:19",
+		"where:from:limit:" : "TommasoDalSasso 4/22/2016 16:06",
+		"summaryFromRequest:" : "TommasoDalSasso 5/4/2016 13:45",
+		"newCommentFromRequest:" : "TommasoDalSasso 9/6/2016 23:13",
+		"fromRequest:" : "TommasoDalSasso 4/22/2016 16:06",
+		"newComment:withReportID:" : "TommasoDalSasso 9/6/2016 17:50",
+		"linksWithID:" : "TommasoDalSasso 9/1/2016 14:30",
+		"withClass:" : "TommasoDalSasso 8/23/2016 00:51",
+		"where:fromRequest:" : "TommasoDalSasso 5/4/2016 14:43",
+		"metadataWithID:" : "TommasoDalSasso 4/29/2016 11:59",
+		"withID:" : "TommasoDalSasso 8/22/2016 00:21"
+	},
 	"class" : {
 		"reifyCommentFrom:andRequest:" : "TommasoDalSasso 8/22/2016 00:24",
-		"reifyFrom:andRequest:" : "TommasoDalSasso 4/22/2016 11:47" },
-	"instance" : {
-		"fromRequest:" : "TommasoDalSasso 4/22/2016 16:06",
-		"linksWithID:" : "TommasoDalSasso 9/1/2016 14:30",
-		"metadataWithID:" : "TommasoDalSasso 4/29/2016 11:59",
-		"newComment:withReportID:" : "TommasoDalSasso 9/6/2016 17:50",
-		"newCommentFromRequest:" : "TommasoDalSasso 9/6/2016 23:13",
-		"store" : "TommasoDalSasso 4/22/2016 11:19",
-		"summaryFromRequest:" : "TommasoDalSasso 5/4/2016 13:45",
-		"where:from:limit:" : "TommasoDalSasso 4/22/2016 16:06",
-		"where:fromRequest:" : "TommasoDalSasso 5/4/2016 14:43",
-		"withClass:" : "TommasoDalSasso 8/23/2016 00:51",
-		"withID:" : "TommasoDalSasso 8/22/2016 00:21" } }
+		"reifyFrom:andRequest:" : "TommasoDalSasso 4/22/2016 11:47"
+	}
+}

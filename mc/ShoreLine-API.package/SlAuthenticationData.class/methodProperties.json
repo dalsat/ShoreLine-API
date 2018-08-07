@@ -1,8 +1,9 @@
 {
-	"class" : {
-		 },
 	"instance" : {
 		"data" : "TommasoDalSasso 6/29/2016 03:37",
 		"store" : "TommasoDalSasso 6/30/2016 17:36",
-		"test" : "TommasoDalSasso 6/29/2016 02:14",
-		"tokenFromRequest:" : "TommasoDalSasso 7/7/2016 01:00" } }
+		"tokenFromRequest:" : "TommasoDalSasso 7/7/2016 01:00",
+		"test" : "TommasoDalSasso 6/29/2016 02:14"
+	},
+	"class" : { }
+}

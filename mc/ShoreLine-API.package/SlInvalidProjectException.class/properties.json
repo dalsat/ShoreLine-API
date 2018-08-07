@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TommasoDalSasso 8/7/2018 00:04",
+	"super" : "Error",
+	"category" : "ShoreLine-API-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"project"
+	],
+	"name" : "SlInvalidProjectException",
+	"type" : "normal"
+}

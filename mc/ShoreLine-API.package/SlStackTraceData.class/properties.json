@@ -1,14 +1,11 @@
 {
-	"category" : "ShoreLine-API-Data",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SlStackTraceData",
-	"pools" : [
-		 ],
 	"super" : "SlData",
-	"type" : "normal" }
+	"category" : "ShoreLine-API-Data",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlStackTraceData",
+	"type" : "normal"
+}

@@ -1,22 +1,25 @@
 {
-	"class" : {
-		"expirePolicy" : "TommasoDalSasso 6/29/2016 16:55",
-		"isVoyageRoot" : "TommasoDalSasso 7/1/2016 16:05",
-		"loadUser:forDomain:" : "TommasoDalSasso 7/1/2016 16:03",
-		"mongoContainer" : "TommasoDalSasso 9/7/2016 23:19",
-		"newWith:" : "TommasoDalSasso 7/1/2016 16:54",
-		"save:" : "TommasoDalSasso 7/1/2016 16:06",
-		"store" : "TommasoDalSasso 7/1/2016 15:57",
-		"with:" : "TommasoDalSasso 7/4/2016 11:48" },
 	"instance" : {
-		"domain" : "TommasoDalSasso 6/29/2016 16:52",
-		"domain:" : "TommasoDalSasso 6/29/2016 16:52",
-		"isExpired" : "TommasoDalSasso 6/29/2016 16:55",
+		"user:" : "TommasoDalSasso 6/29/2016 16:52",
 		"lastUsed" : "TommasoDalSasso 6/29/2016 16:52",
+		"domain" : "TommasoDalSasso 6/29/2016 16:52",
+		"isExpired" : "TommasoDalSasso 6/29/2016 16:55",
+		"token" : "TommasoDalSasso 6/29/2016 16:52",
+		"user" : "TommasoDalSasso 6/29/2016 16:52",
 		"lastUsed:" : "TommasoDalSasso 6/29/2016 16:52",
 		"printOn:" : "TommasoDalSasso 6/29/2016 17:01",
 		"refresh" : "TommasoDalSasso 6/29/2016 16:57",
-		"token" : "TommasoDalSasso 6/29/2016 16:52",
 		"token:" : "TommasoDalSasso 6/29/2016 16:52",
-		"user" : "TommasoDalSasso 6/29/2016 16:52",
-		"user:" : "TommasoDalSasso 6/29/2016 16:52" } }
+		"domain:" : "TommasoDalSasso 6/29/2016 16:52"
+	},
+	"class" : {
+		"with:" : "TommasoDalSasso 7/4/2016 11:48",
+		"expirePolicy" : "TommasoDalSasso 6/29/2016 16:55",
+		"newWith:" : "TommasoDalSasso 7/1/2016 16:54",
+		"mongoContainer" : "TommasoDalSasso 9/7/2016 23:19",
+		"loadUser:forDomain:" : "TommasoDalSasso 7/1/2016 16:03",
+		"save:" : "TommasoDalSasso 7/1/2016 16:06",
+		"store" : "TommasoDalSasso 7/1/2016 15:57",
+		"isVoyageRoot" : "TommasoDalSasso 7/1/2016 16:05"
+	}
+}

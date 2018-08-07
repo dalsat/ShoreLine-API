@@ -1,4 +1,5 @@
 accessing
 reset
 
-	Instance := nil
+	Instance := nil.
+	^ self uniqueInstance

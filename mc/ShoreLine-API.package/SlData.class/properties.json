@@ -1,14 +1,13 @@
 {
+	"commentStamp" : "TommasoDalSasso 12/6/2015 00:45",
+	"super" : "Object",
 	"category" : "ShoreLine-API-Data",
 	"classinstvars" : [
-		"Current" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "TommasoDalSasso 12/6/2015 00:45",
-	"instvars" : [
-		 ],
+		"Current"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "SlData",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,8 +1,11 @@
 {
-	"class" : {
-		"path" : "TommasoDalSasso 3/7/2017 15:03" },
 	"instance" : {
 		"data" : "TommasoDalSasso 3/7/2017 21:38",
 		"dataGet:" : "TommasoDalSasso 3/8/2017 00:34",
 		"testGet:" : "TommasoDalSasso 3/8/2017 00:34",
-		"tokenGet:" : "TommasoDalSasso 3/8/2017 00:34" } }
+		"tokenGet:" : "TommasoDalSasso 3/8/2017 00:34"
+	},
+	"class" : {
+		"path" : "TommasoDalSasso 3/7/2017 15:03"
+	}
+}

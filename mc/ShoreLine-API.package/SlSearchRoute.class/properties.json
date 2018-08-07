@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SlProjectRoute",
+	"category" : "ShoreLine-API-Routes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlSearchRoute",
+	"type" : "normal"
+}

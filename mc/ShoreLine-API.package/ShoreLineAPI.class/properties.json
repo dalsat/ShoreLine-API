@@ -1,15 +1,16 @@
 {
-	"category" : "ShoreLine-API-Server",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"Instance" ],
 	"commentStamp" : "TommasoDalSasso 12/8/2015 00:52",
+	"super" : "Object",
+	"category" : "ShoreLine-API-Server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Instance"
+	],
 	"instvars" : [
 		"teapot",
-		"routes" ],
+		"routes"
+	],
 	"name" : "ShoreLineAPI",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

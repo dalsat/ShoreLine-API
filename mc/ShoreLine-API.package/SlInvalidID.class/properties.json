@@ -1,14 +1,13 @@
 {
-	"category" : "ShoreLine-API-Exceptions",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "TommasoDalSasso 12/4/2015 11:28",
-	"instvars" : [
-		"id" ],
-	"name" : "SlInvalidID",
-	"pools" : [
-		 ],
 	"super" : "Error",
-	"type" : "normal" }
+	"category" : "ShoreLine-API-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id"
+	],
+	"name" : "SlInvalidID",
+	"type" : "normal"
+}

@@ -1,8 +1,11 @@
 {
-	"class" : {
-		"path" : "TommasoDalSasso 3/7/2017 13:53" },
 	"instance" : {
-		"errorGet:" : "TommasoDalSasso 3/8/2017 11:42",
-		"messageGet:" : "TommasoDalSasso 3/8/2017 11:42",
 		"rootGet:" : "TommasoDalSasso 3/8/2017 11:42",
-		"rootPost:" : "TommasoDalSasso 3/8/2017 11:42" } }
+		"messageGet:" : "TommasoDalSasso 3/8/2017 11:42",
+		"errorGet:" : "TommasoDalSasso 3/8/2017 11:42",
+		"rootPost:" : "TommasoDalSasso 3/8/2017 11:42"
+	},
+	"class" : {
+		"path" : "TommasoDalSasso 3/7/2017 13:53"
+	}
+}

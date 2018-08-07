@@ -1,16 +1,15 @@
 {
-	"category" : "ShoreLine-API-Server",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "TommasoDalSasso 6/29/2016 00:44",
+	"super" : "Object",
+	"category" : "ShoreLine-API-Server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"clientId",
 		"clientSecret",
-		"tokenAuthenticator" ],
+		"tokenAuthenticator"
+	],
 	"name" : "SlAuthenticator",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,17 +1,16 @@
 {
-	"category" : "ShoreLine-API-Server",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "TommasoDalSasso 6/29/2016 16:49",
+	"super" : "SlEntity",
+	"category" : "ShoreLine-API-Server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"user",
 		"token",
 		"domain",
-		"lastUsed" ],
+		"lastUsed"
+	],
 	"name" : "SlToken",
-	"pools" : [
-		 ],
-	"super" : "SlEntity",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,11 +1,14 @@
 {
-	"class" : {
-		"reifyFrom:andRequest:" : "TommasoDalSasso 5/4/2016 13:26" },
 	"instance" : {
-		"fromRequest:" : "TommasoDalSasso 4/21/2016 16:06",
-		"metadataWithID:" : "TommasoDalSasso 4/21/2016 16:05",
-		"store" : "TommasoDalSasso 4/21/2016 16:01",
-		"summaryFromRequest:" : "TommasoDalSasso 4/21/2016 16:01",
-		"where:from:limit:" : "TommasoDalSasso 4/21/2016 16:07",
 		"where:fromRequest:" : "TommasoDalSasso 5/4/2016 14:43",
-		"withID:" : "TommasoDalSasso 4/21/2016 16:06" } }
+		"fromRequest:" : "TommasoDalSasso 4/21/2016 16:06",
+		"withID:" : "TommasoDalSasso 4/21/2016 16:06",
+		"where:from:limit:" : "TommasoDalSasso 4/21/2016 16:07",
+		"summaryFromRequest:" : "TommasoDalSasso 4/21/2016 16:01",
+		"store" : "TommasoDalSasso 4/21/2016 16:01",
+		"metadataWithID:" : "TommasoDalSasso 4/21/2016 16:05"
+	},
+	"class" : {
+		"reifyFrom:andRequest:" : "TommasoDalSasso 5/4/2016 13:26"
+	}
+}

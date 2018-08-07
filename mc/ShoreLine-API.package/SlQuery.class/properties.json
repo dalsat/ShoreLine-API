@@ -1,16 +1,15 @@
 {
-	"category" : "ShoreLine-API-Data",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "TommasoDalSasso 12/19/2015 03:02",
+	"super" : "Object",
+	"category" : "ShoreLine-API-Data",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"parameters",
 		"request",
-		"allowedParameters" ],
+		"allowedParameters"
+	],
 	"name" : "SlQuery",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

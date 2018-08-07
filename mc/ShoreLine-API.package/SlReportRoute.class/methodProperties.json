@@ -1,13 +1,17 @@
 {
-	"class" : {
-		"path" : "TommasoDalSasso 3/7/2017 21:38" },
 	"instance" : {
-		"commentPost:" : "TommasoDalSasso 3/8/2017 00:34",
-		"data" : "TommasoDalSasso 3/7/2017 21:38",
-		"fullGet:" : "TommasoDalSasso 3/8/2017 12:37",
-		"linksGet:" : "TommasoDalSasso 3/8/2017 12:37",
 		"metadataGet:" : "TommasoDalSasso 3/8/2017 12:37",
 		"rootGet:" : "TommasoDalSasso 3/8/2017 00:34",
 		"rootPost:" : "TommasoDalSasso 3/8/2017 00:34",
+		"commentPost:" : "TommasoDalSasso 3/8/2017 00:34",
+		"linksGet:" : "TommasoDalSasso 3/8/2017 12:37",
 		"summaryGet:" : "TommasoDalSasso 3/8/2017 00:34",
-		"withClassGet:" : "TommasoDalSasso 3/8/2017 12:37" } }
+		"withClassGet:" : "TommasoDalSasso 3/8/2017 12:37",
+		"fullGet:" : "TommasoDalSasso 3/8/2017 12:37",
+		"data" : "TommasoDalSasso 3/7/2017 21:38"
+	},
+	"class" : {
+		"path" : "TommasoDalSasso 3/7/2017 21:38",
+		"isActive" : "TommasoDalSasso 8/6/2018 22:51"
+	}
+}

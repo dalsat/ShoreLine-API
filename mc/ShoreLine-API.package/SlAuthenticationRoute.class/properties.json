@@ -1,14 +1,11 @@
 {
-	"category" : "ShoreLine-API-Routes",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SlAuthenticationRoute",
-	"pools" : [
-		 ],
 	"super" : "SlRootRoute",
-	"type" : "normal" }
+	"category" : "ShoreLine-API-Routes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlAuthenticationRoute",
+	"type" : "normal"
+}

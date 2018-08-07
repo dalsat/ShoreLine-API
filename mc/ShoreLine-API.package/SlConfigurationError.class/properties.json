@@ -1,14 +1,11 @@
 {
-	"category" : "ShoreLine-API-Exceptions",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "TommasoDalSasso 12/7/2015 14:42",
-	"instvars" : [
-		 ],
-	"name" : "SlConfigurationError",
-	"pools" : [
-		 ],
 	"super" : "Error",
-	"type" : "normal" }
+	"category" : "ShoreLine-API-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlConfigurationError",
+	"type" : "normal"
+}

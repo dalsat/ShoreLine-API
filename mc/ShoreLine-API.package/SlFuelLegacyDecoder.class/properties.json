@@ -1,14 +1,11 @@
 {
-	"category" : "ShoreLine-API-Decoders",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SlFuelLegacyDecoder",
-	"pools" : [
-		 ],
 	"super" : "SlDecoder",
-	"type" : "normal" }
+	"category" : "ShoreLine-API-Decoders",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlFuelLegacyDecoder",
+	"type" : "normal"
+}

@@ -1,14 +1,11 @@
 {
-	"category" : "ShoreLine-API-Exceptions",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "TommasoDalSasso 6/29/2016 03:35",
-	"instvars" : [
-		 ],
-	"name" : "SlLoginAuthenticateException",
-	"pools" : [
-		 ],
 	"super" : "SlAuthenticateException",
-	"type" : "normal" }
+	"category" : "ShoreLine-API-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlLoginAuthenticateException",
+	"type" : "normal"
+}

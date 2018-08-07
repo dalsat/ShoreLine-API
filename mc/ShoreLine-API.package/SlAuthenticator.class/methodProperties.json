@@ -1,19 +1,22 @@
 {
-	"class" : {
-		"authUrl" : "TommasoDalSasso 6/29/2016 01:24",
-		"domain" : "TommasoDalSasso 6/29/2016 17:21",
-		"scopes" : "TommasoDalSasso 6/29/2016 00:44" },
 	"instance" : {
-		"authHeader" : "TommasoDalSasso 6/29/2016 01:42",
-		"authenticateRequest:do:" : "TommasoDalSasso 9/7/2016 17:04",
-		"checkLogin:withPassword:" : "TommasoDalSasso 7/4/2016 16:28",
-		"checkLoginFromRequest:" : "TommasoDalSasso 6/29/2016 02:43",
-		"checkToken:" : "TommasoDalSasso 6/29/2016 15:28",
-		"clientId:" : "TommasoDalSasso 6/29/2016 01:04",
-		"clientSecret:" : "TommasoDalSasso 6/29/2016 01:04",
-		"isRequestAuthenticated:" : "TommasoDalSasso 6/29/2016 03:34",
-		"isRequestLoginAuthenticated:" : "TommasoDalSasso 6/29/2016 03:34",
-		"isRequestTokenAuthenticated:" : "TommasoDalSasso 6/29/2016 15:28",
-		"newTokenFor:withData:" : "TommasoDalSasso 7/1/2016 17:05",
 		"processLoginData:for:" : "TommasoDalSasso 7/1/2016 16:57",
-		"requestLogin:withPassword:" : "TommasoDalSasso 6/29/2016 03:32" } }
+		"clientId:" : "TommasoDalSasso 6/29/2016 01:04",
+		"authHeader" : "TommasoDalSasso 6/29/2016 01:42",
+		"isRequestLoginAuthenticated:" : "TommasoDalSasso 6/29/2016 03:34",
+		"newTokenFor:withData:" : "TommasoDalSasso 7/1/2016 17:05",
+		"checkLogin:withPassword:" : "TommasoDalSasso 7/4/2016 16:28",
+		"checkToken:" : "TommasoDalSasso 8/7/2018 00:23",
+		"isRequestAuthenticated:" : "TommasoDalSasso 6/29/2016 03:34",
+		"isRequestTokenAuthenticated:" : "TommasoDalSasso 6/29/2016 15:28",
+		"authenticateRequest:do:" : "TommasoDalSasso 9/7/2016 17:04",
+		"clientSecret:" : "TommasoDalSasso 6/29/2016 01:04",
+		"requestLogin:withPassword:" : "TommasoDalSasso 6/29/2016 03:32",
+		"checkLoginFromRequest:" : "TommasoDalSasso 6/29/2016 02:43"
+	},
+	"class" : {
+		"domain" : "TommasoDalSasso 6/29/2016 17:21",
+		"scopes" : "TommasoDalSasso 6/29/2016 00:44",
+		"authUrl" : "TommasoDalSasso 6/29/2016 01:24"
+	}
+}
