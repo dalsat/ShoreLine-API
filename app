@@ -34,17 +34,23 @@ script_home=$(dirname $0)
 script_home=$(cd $script_home && pwd)
 
 command=$1
-image="$script_home/Pharo.image"
+image="Pharo.image"
 pid_file=${2:-"$script_home/pharo.pid"}
 
 # echo $pid_file
 
-if [ -d $VM_PATH ]; then
-    vm=${script_home}/$VM_PATH/pharo-ui
-elif [[ "$OSTYPE" == "linux-gnu" ]]; then
-    vm=pharo-vm-nox
+# if [ -d $VM_PATH ]; then
+#     vm=${script_home}/$VM_PATH/pharo-ui
+# elif [[ "$OSTYPE" == "linux-gnu" ]]; then
+#     vm=pharo-vm-nox
+# elif [[ "$OSTYPE" == "darwin"* ]]; then
+#     vm=/Applications/Pharo.app/Contents/MacOS/Pharo
+# fi
+
+if [[ "$OSTYPE" == "linux-gnu" ]]; then
+    vm=${script_home}/$VM_PATH/pharo -headless
 elif [[ "$OSTYPE" == "darwin"* ]]; then
-    vm=/Applications/Pharo.app/Contents/MacOS/Pharo
+    vm=${script_home}/$VM_PATH/pharo-ui
 fi
 
 # echo Working directory $script_home
@@ -65,8 +71,8 @@ function deploy() {
 }
 
 function build() {
-    echo $vm $image install.st
-    $vm $image install.st
+    echo $vm $image build.st
+    $vm $image build.st
 }
 
 function clean() {
@@ -81,7 +87,7 @@ function clean() {
 function start() {
     echo Starting $script in background
     if [ -e "$pid_file" ]; then
-    rm -f $pid_file
+        rm -f $pid_file
     fi
     echo $pid_file
     echo $vm $image start.st
@@ -94,37 +100,37 @@ function stop() {
     if [ -e "$pid_file" ]; then
         pid=`cat $pid_file`
         echo Killing $pid
-    kill $pid
-    rm -f $pid_file
+        kill $pid
+        rm -f $pid_file
     else
         echo Pid file not found: $pid_file
-    echo Searching in process list for $script
-    pids=`ps ax | grep $script | grep -v grep | grep -v $0 | awk '{print $1}'`
-    if [ -z "$pids" ]; then
-            echo No pids found!
-    else
+        echo Searching in process list for $script
+        pids=`ps ax | grep $script | grep -v grep | grep -v $0 | awk '{print $1}'`
+        if [ -z "$pids" ]; then
+                echo No pids found!
+        else
             for p in $pids; do
-        if [ $p != "$pid" ]; then
-                    echo Killing $p
-                    kill $p
-        fi
+                if [ $p != "$pid" ]; then
+                            echo Killing $p
+                            kill $p
+                fi
             done
-    fi
+        fi
     fi
 }
 
 function printpid() {
     if [ -e $pid_file ]; then
-    cat $pid_file
+        cat $pid_file
     else
         echo Pid file not found: $pid_file
-    echo Searching in process list for $script
-    pids=`ps ax | grep $script | grep -v grep | grep -v $0 | awk '{print $1}'`
-    if [ -z "$pids" ]; then
-            echo No pids found!
-    else
-        echo $pids
-    fi
+        echo Searching in process list for $script
+        pids=`ps ax | grep $script | grep -v grep | grep -v $0 | awk '{print $1}'`
+        if [ -z "$pids" ]; then
+                echo No pids found!
+        else
+            echo $pids
+        fi
     fi
 }
 
