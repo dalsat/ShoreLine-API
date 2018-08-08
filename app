@@ -48,9 +48,12 @@ pid_file=${2:-"$script_home/pharo.pid"}
 # fi
 
 if [[ "$OSTYPE" == "linux-gnu" ]]; then
-    vm=${script_home}/$VM_PATH/pharo -headless
+    vm="${script_home}/$VM_PATH/pharo -headless"
 elif [[ "$OSTYPE" == "darwin"* ]]; then
-    vm=${script_home}/$VM_PATH/pharo-ui
+    vm="${script_home}/$VM_PATH/pharo-ui"
+else
+    echo 'unsupported system'
+    exit
 fi
 
 # echo Working directory $script_home
