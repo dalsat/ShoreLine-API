@@ -87,6 +87,12 @@ function clean() {
     fi
 }
 
+function run() {
+    echo Starting $script
+    echo $vm $image start.st
+    $vm $image start.st 2>&1 >/dev/null
+}
+
 function start() {
     echo Starting $script in background
     if [ -e "$pid_file" ]; then
@@ -152,6 +158,9 @@ case $command in
         ;;
     start)
         start
+        ;;
+    run)
+        run
         ;;
     stop)
         stop
