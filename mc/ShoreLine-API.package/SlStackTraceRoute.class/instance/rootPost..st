@@ -4,7 +4,9 @@ rootPost: aRequest
 	| id |
 	
 	self validateProjectFromRequest: aRequest.
-	id := (self data save: aRequest) asString.
+	[ id := (self data save: aRequest) asString ]
+		on: SlBadFormat do: [ ^ TeaResponse badRequest body: 'invalid format' ].
+		
 	^ TeaResponse created
 		body: { #id -> id } asDictionary;
 		yourself

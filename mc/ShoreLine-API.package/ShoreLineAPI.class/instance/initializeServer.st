@@ -10,4 +10,6 @@ initializeServer
 	}.
 	
 	teapot server logLevel: self settings logLevel.
-	Smalltalk logFileName: self settings logFile
+	Smalltalk logFileName: self settings logFile.
+	
+	teapot server debugMode ifTrue: [ self registerCorsHeader ]

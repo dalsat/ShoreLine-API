@@ -3,7 +3,8 @@ registerRoutes
 
 	SlRootRoute
 		registerRoutesOn: (SlTeapotRouteVisitor on: teapot)
-		atPath: ''
+		atPath: ''.
+	
 	"SlRootRoute allRoutes do: [ :eachRoute |
 		teapot
 			perform: (eachRoute at: #method) asMutator
